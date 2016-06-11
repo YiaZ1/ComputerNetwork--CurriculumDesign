@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatter", "Chatter\Chatter.csproj", "{2A54B5AC-51E3-49D7-99C7-D41F6940E307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatterServer", "ChatterServer\ChatterServer.csproj", "{47C855B4-2A67-4350-8FF0-6E8710546A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A54B5AC-51E3-49D7-99C7-D41F6940E307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A54B5AC-51E3-49D7-99C7-D41F6940E307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A54B5AC-51E3-49D7-99C7-D41F6940E307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A54B5AC-51E3-49D7-99C7-D41F6940E307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C855B4-2A67-4350-8FF0-6E8710546A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C855B4-2A67-4350-8FF0-6E8710546A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C855B4-2A67-4350-8FF0-6E8710546A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C855B4-2A67-4350-8FF0-6E8710546A13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

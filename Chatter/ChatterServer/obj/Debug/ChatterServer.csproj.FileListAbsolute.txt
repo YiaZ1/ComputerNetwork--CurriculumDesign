@@ -1,0 +1,6 @@
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\ChatterServer\bin\Debug\ChatterServer.exe.config
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\ChatterServer\bin\Debug\ChatterServer.exe
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\ChatterServer\bin\Debug\ChatterServer.pdb
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\ChatterServer\obj\Debug\ChatterServer.exe
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\ChatterServer\obj\Debug\ChatterServer.pdb
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\ChatterServer\obj\Debug\ChatterServer.csprojResolveAssemblyReference.cache

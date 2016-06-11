@@ -1,0 +1,11 @@
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\bin\Debug\Chatter.exe.config
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\bin\Debug\Chatter.exe
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\bin\Debug\Chatter.pdb
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\obj\Debug\Chatter.client_log.resources
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\obj\Debug\Chatter.Properties.Resources.resources
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\obj\Debug\Chatter.csproj.GenerateResource.Cache
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\obj\Debug\Chatter.exe
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\obj\Debug\Chatter.pdb
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\obj\Debug\Chatter.Chat_Form.resources
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\obj\Debug\Chatter.csprojResolveAssemblyReference.cache
+D:\Users\logo\Desktop\实验\计算机网络\网络课设\Chatter\Chatter\bin\Debug\CSkin.dll
