@@ -1,10 +1,14 @@
 # ComputerNetwork--CurriculumDesign
 
+### 简介
+
+利用Tcp与soclet实现了本地聊天室，显示聊天消息，显示在线用户。
+
 ### 编程环境
 
 Windows10 64位 + VS2012 + .Net 4.5
 
-### 介绍
+### 模块介绍
 
 #### Chatter
 
